@@ -1,0 +1,27 @@
+version: "2.35.1"
+services:
+  pg_service:
+    image: postgres:alpine
+    container_name: postgres_container
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: 3005
+    ports:
+      - "5434:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  bot:
+    build: .
+    image: exam_bot:latest
+    container_name: exam_container
+    restart: always
+    command: python3 main.py
+    depends_on:
+      - pg_service
+
+volumes:
+  pgdata:
+
+
+

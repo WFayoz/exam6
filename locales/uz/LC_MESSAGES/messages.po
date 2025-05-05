@@ -1,0 +1,93 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-05 12:05+0500\n"
+"PO-Revision-Date: 2025-05-05 11:36+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: bot/buttons/reply.py:31
+msgid "Contact with us"
+msgstr "Biz bilan aloqa"
+
+#: bot/buttons/reply.py:38
+msgid "Salads"
+msgstr "Salatlar"
+
+#: bot/buttons/reply.py:40
+msgid "Traditional foods"
+msgstr "Milliy taomlar"
+
+#: bot/buttons/reply.py:41 bot/buttons/reply.py:50 bot/buttons/reply.py:59
+#: bot/buttons/reply.py:68
+msgid "Back"
+msgstr "Orqaga"
+
+#: bot/buttons/reply.py:48
+msgid "Sezar salad"
+msgstr "Sezar salati"
+
+#: bot/buttons/reply.py:49
+msgid "Olivie salad"
+msgstr "Oliviya salati"
+
+#: bot/buttons/reply.py:66
+msgid "Plov"
+msgstr "Milliy Osh"
+
+#: bot/buttons/reply.py:67
+msgid "Samsa"
+msgstr "Milliy somsa"
+
+#: bot/handlers/main.py:20
+#, python-brace-format
+msgid "Hello, {}"
+msgstr "Salom, {}"
+
+#: bot/handlers/main.py:29
+msgid "Welcome"
+msgstr "Xush kelibsiz"
+
+#: bot/handlers/main.py:39
+msgid "hello this text is for testing is multilang working or not "
+msgstr ""
+
+#: bot/handlers/menu.py:13
+msgid "Menu 🍽️ 👇🏿"
+msgstr "Menu 🍽️ 👇🏿"
+
+#: bot/handlers/menu.py:18
+msgid "Salads 🥗 👇🏿"
+msgstr "Salatlar 🥗 👇🏿"
+
+#: bot/handlers/menu.py:28
+msgid "Traditional foods 🍛 👇🏿"
+msgstr "Milly taomlar 🍛 👇"
+
+#: bot/handlers/menu.py:33 bot/handlers/menu.py:41 bot/handlers/menu.py:49
+#: bot/handlers/menu.py:57
+msgid ""
+"1 large or 2 small heads of romaine lettuce\n"
+"Parmesan cheese, shredded or shaved\n"
+"Crisp croutons – homemade can be made several days ahead. The recipe "
+"below makes enough for 2 salads.\n"
+"Caesar salad dressing – homemade is best and here is our favorite store-"
+"bought dressing in a pinch"
+msgstr " O‘zbek palovi- bu sharqona taomlarni xush ko‘ruvchilar va shirin ovqatlarni qadrlovchilar taomidir."
+ "Dunyoda 100 dan ortiq palov tayyorlash retsepti mavjud bo‘lsada,"
+  "O‘zbekistonda palov tayyorlash o‘zgachadir. "
+  "O‘zbekistonning har bir mintaqasi o‘zining yagona palov tayyorlash retseptiga egadir."
+   "Ammo O‘zbekistonda palov taomining paydo bo‘lish tarixini ko‘pchilik  bilmasa kerak. "
+
